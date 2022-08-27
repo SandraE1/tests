@@ -923,7 +923,7 @@
     "print(f\"Classification score on the validation set: {linreg.score(x_val, y_val):.3f}\")\n",
     "print(f\"Classification score on the validation set: {linreg.score(x_test, y_test):.3f}\")"
    ]
-  },
+  }, 
   {
    "cell_type": "code",
    "execution_count": 42,
